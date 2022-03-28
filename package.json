@@ -1,0 +1,14 @@
+{
+  "name": "library_management_app",
+  "version": "1.0.0",
+  "description": "This is my first decentralized application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Fahad",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomiclabs/buidler": "^1.4.8"
+  }
+}
